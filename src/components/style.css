@@ -13,3 +13,17 @@
         width: 65%;
     }
 }
+
+.navbar {
+    height: 70px;
+}
+
+.heading {
+    padding-left: 20px;
+    padding-top: 40px;
+}
+
+.signout {
+    cursor: pointer;
+    padding-left: 95%;
+}

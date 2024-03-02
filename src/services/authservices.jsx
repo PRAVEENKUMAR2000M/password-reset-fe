@@ -64,6 +64,12 @@ const authService = {
 
         return res.data
 
+    },
+
+    getuser: async () => {
+        console.log('fetching the user')
+        const res = await instance.protectedInstance.get('/getuser')
+        return res.data
     }
 
 }

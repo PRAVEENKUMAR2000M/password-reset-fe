@@ -2,7 +2,7 @@ import axios from "axios";
 
 // define the base url for the api
 
-const baseURL = 'https://password-reset-be-2.onrender.com'
+const baseURL = 'https://password-reset-be-3.onrender.com'
 // const baseURL = 'http://localhost:3001';
 
 // define the auth instance
